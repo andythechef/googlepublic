@@ -1,0 +1,5 @@
+project       = "Replace with your project ID"
+instance_name = "mariadbtransformersinstance"
+machine_type  = "e2-micro"
+zone          = "Replace with your zone"
+image         = "debian-cloud/debian-11"
